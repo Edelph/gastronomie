@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jstl-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Librairy/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Librairy/gson-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/Librairy/com.mysql.jdbc_5.1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
